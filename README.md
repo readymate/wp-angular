@@ -38,8 +38,8 @@ npm run build:prod
 
 ## Support
 
-Please [open an issue](https://github.com/readymate/wp-git/issues/new) for support.
+Please [open an issue](https://github.com/readymate/wp-angular/issues/new) for support.
 
 ## Contributing
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/readymate/wp-git/compare/).
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/readymate/wp-angular/compare/).

@@ -1,3 +1,3 @@
 <?php 
 
-require get_template_directory()."/angular-compiled/index.html";
+require get_template_directory()."/dist/index.html";
