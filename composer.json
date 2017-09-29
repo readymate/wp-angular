@@ -1,0 +1,13 @@
+{
+    "name": "readymate/wp-angular",
+    "description": "Wordpress Theme wrapper for Angular 4 Frontend",
+    "type": "wordpress-theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Egor",
+            "email": "egor@scops.com"
+        }
+    ],
+    "require": {}
+}
