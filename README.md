@@ -22,6 +22,8 @@ Wordpress Theme wrapper for Angular 4 Frontend
 
 
 ## Local Development
+The app inside `angular-src` is generated through the `Angular-CLI`, only change is the `npm run build:prod` command inside `package.json` with the correct output path.
+
 Run App
 
 ```sh
