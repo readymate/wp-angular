@@ -1,5 +1,7 @@
 # WordPress Angular Starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/readymate/wp-angular.svg)](https://greenkeeper.io/)
+
 Wordpress Theme wrapper for Angular 4 Frontend
 
 ## Table of Contents
